@@ -1,3 +1,6 @@
+![snake svg](https://github.com/marvills/marvills/blob/output/github-contribution-grid-snake.svg)
+
+
 - 👋 Hi, I’m @CarLKnight6
 - 👀 I’m interested in Flutter Development
 - 🌱 I’m currently learning an awesome Flutter State Management and File Architechtures.
