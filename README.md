@@ -1,4 +1,4 @@
-![snake svg](https://github.com/mavrvills/marvills/blob/output/github-contribution-grid-snake.svg)
+
 
 
 - 👋 Hi, I’m @CarLKnight6
