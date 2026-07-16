@@ -3,8 +3,7 @@
 
 - 👋 Hi, I’m @CarLKnight6
 - 👀 I’m interested in Flutter Development
-- 🌱 I’m currently learning an awesome Flutter State Management and File Architechtures.
-- 💞️ I’m looking to collaborate on any professional Senior FLutter Developer(AN EXTREMELY GOOD ONE BUT CAN TEACH ME FLUTTER IN A SIMPLE MANNER)
+- 💞️ I have 4 years experience of flutter development for mobile applications
 - 📫 How to reach me:
 - sancheja123@gmail.com / 09662949923(PHILIPPINE NUMBER)
 
